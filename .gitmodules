@@ -1,0 +1,3 @@
+[submodule "apis"]
+	path = apis
+	url = http://gitlab.mariogismondi.com/web/apis.git
